@@ -13,11 +13,6 @@
 ## 🧠 LeetCode
 🔗 https://leetcode.com/lucifier121/
 
-## 🧠 LeetCode Stats
-## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/lucifier121?theme=dark&font=Karma&ext=activity)
-
-
 ## 🔥 LeetCode Card
 ![LeetCode Card](https://leetcard.jacoblin.cool/lucifier121?theme=dark&font=Karma)
 
