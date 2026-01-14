@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Advik 🚀  
+💻 2nd Year CSE Student | 🔥 LeetCode + DSA | ⚡ C++ / Python / Java  
 
-<!--
-**lucifier950/lucifier950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎯 Currently focusing on DSA + Problem Solving  
+- 💪 Goal: Become a strong Software Engineer  
+- 🚀 Building projects + improving coding skills daily  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 LeetCode
+🔗 https://leetcode.com/lucifier121/
+
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=lucifier121&theme=dark)
+
+## 🔥 LeetCode Card
+![LeetCode Card](https://leetcard.jacoblin.cool/lucifier121?theme=dark&font=Karma)
+
+---
+
+## 🛠️ Skills
+- 💻 Languages: C++, Python, Java  
+- 📚 CS: DSA, OOPS, DBMS  
+- 🌐 Basics: HTML, CSS, Flask  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucifier950&show_icons=true&theme=tokyonight)
+
+## 🚀 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifier950&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/advik-rajvansh-8a1b34343/  
+- 📧 Email: advikrajvansh49@gmail.com  
