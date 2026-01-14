@@ -26,6 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-rouge-chi-54.vercel.app/api?username=lucifier950&show_icons=true&theme=tokyonight)
 
 ## 🚀 Most Used Languages
