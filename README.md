@@ -26,10 +26,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucifier950&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-rouge-chi-54.vercel.app/api?username=lucifier950&show_icons=true&theme=tokyonight)
 
 ## 🚀 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifier950&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-rouge-chi-54.vercel.app/api/top-langs/?username=lucifier950&layout=compact&theme=tokyonight)
 
 ---
 
