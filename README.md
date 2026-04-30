@@ -1,5 +1,5 @@
 # Hi 👋 I'm Advik 🚀  
-💻 2nd Year CSE Student | 🔥 LeetCode + DSA | ⚡ C++ / Python / Java  
+💻 2nd Year CSE Student | 🔥 LeetCode + DSA+ AI/ML | ⚡ C++ / Python / Java /
 
 ---
 
